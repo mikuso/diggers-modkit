@@ -1,0 +1,180 @@
+{
+	"path": "LVL_DATA",
+	"files": [
+		{
+			"name": "DEMO_MAP",
+			"tileset": "J",
+			"title": "DEMO"
+		},
+		{
+			"name": "LEVEL_00.GAM",
+			"tileset": "R",
+			"title": "AZERG"
+		},
+		{
+			"name": "LEVEL_01.GAM",
+			"tileset": "G",
+			"title": "DHOBBS"
+		},
+		{
+			"name": "LEVEL_02.GAM",
+			"tileset": "G",
+			"title": "ELEVATE"
+		},
+		{
+			"name": "LEVEL_03.GAM",
+			"tileset": "G",
+			"title": "DEENA"
+		},
+		{
+			"name": "LEVEL_04.GAM",
+			"tileset": "I",
+			"title": "JUSTYN"
+		},
+		{
+			"name": "LEVEL_05.GAM",
+			"tileset": "G",
+			"title": "FUJALE"
+		},
+		{
+			"name": "LEVEL_06.GAM",
+			"tileset": "G",
+			"title": "HAEWARD"
+		},
+		{
+			"name": "LEVEL_07.GAM",
+			"tileset": "J",
+			"title": "SAIRRUHR"
+		},
+		{
+			"name": "LEVEL_08.GAM",
+			"tileset": "J",
+			"title": "TRAAGHE"
+		},
+		{
+			"name": "LEVEL_09.GAM",
+			"tileset": "M",
+			"title": "KURVELYNN"
+		},
+		{
+			"name": "LEVEL_10.GAM",
+			"tileset": "J",
+			"title": "SQUEEK"
+		},
+		{
+			"name": "LEVEL_11.GAM",
+			"tileset": "D",
+			"title": "MYKEBORL"
+		},
+		{
+			"name": "LEVEL_12.GAM",
+			"tileset": "R",
+			"title": "ZORLYACK"
+		},
+		{
+			"name": "LEVEL_13.GAM",
+			"tileset": "R",
+			"title": "FTARGUS"
+		},
+		{
+			"name": "LEVEL_14.GAM",
+			"tileset": "D",
+			"title": "TRAISA"
+		},
+		{
+			"name": "LEVEL_15.GAM",
+			"tileset": "M",
+			"title": "KLINDYKE"
+		},
+		{
+			"name": "LEVEL_16.GAM",
+			"tileset": "G",
+			"title": "EEANZONE"
+		},
+		{
+			"name": "LEVEL_17.GAM",
+			"tileset": "G",
+			"title": "CHYSSHIR"
+		},
+		{
+			"name": "LEVEL_18.GAM",
+			"tileset": "S",
+			"title": "DJENNEE"
+		},
+		{
+			"name": "LEVEL_19.GAM",
+			"tileset": "S",
+			"title": "DWINDERA"
+		},
+		{
+			"name": "LEVEL_20.GAM",
+			"tileset": "J",
+			"title": "TWANG"
+		},
+		{
+			"name": "LEVEL_21.GAM",
+			"tileset": "M",
+			"title": "HABBARD"
+		},
+		{
+			"name": "LEVEL_22.GAM",
+			"tileset": "D",
+			"title": "BENJAR"
+		},
+		{
+			"name": "LEVEL_23.GAM",
+			"tileset": "J",
+			"title": "SHRUBREE"
+		},
+		{
+			"name": "LEVEL_24.GAM",
+			"tileset": "I",
+			"title": "BAROK"
+		},
+		{
+			"name": "LEVEL_25.GAM",
+			"tileset": "D",
+			"title": "MUHLAHRD"
+		},
+		{
+			"name": "LEVEL_26.GAM",
+			"tileset": "R",
+			"title": "CHONSKEE"
+		},
+		{
+			"name": "LEVEL_27.GAM",
+			"tileset": "M",
+			"title": "PURTH"
+		},
+		{
+			"name": "LEVEL_28.GAM",
+			"tileset": "S",
+			"title": "ANKH"
+		},
+		{
+			"name": "LEVEL_29.GAM",
+			"tileset": "S",
+			"title": "ZELIOS"
+		},
+		{
+			"name": "LEVEL_30.GAM",
+			"tileset": "I",
+			"title": "FRUER"
+		},
+		{
+			"name": "LEVEL_31.GAM",
+			"tileset": "J",
+			"title": "KLARSH"
+		},
+		{
+			"name": "LEVEL_32.GAM",
+			"tileset": "I",
+			"title": "SUHMNER"
+		},
+		{
+			"name": "LEVEL_33.GAM",
+			"tileset": "J",
+			"title": "Q"
+		}
+	]
+}

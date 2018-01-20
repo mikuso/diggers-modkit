@@ -1,0 +1,881 @@
+{
+    "path": "GFX",
+    "files": [
+        {
+            "name": "ACTIONS.BIN",
+            "width": 16,
+            "height": 88,
+            "palette": "GBLOCK1.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "BANK.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "BANKP1.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "BANK.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "BANKP2.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "BANK.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "BMASKS1.BIN",
+            "width": 40,
+            "height": 200,
+            "palette": false,
+            "compression": false,
+            "interlaced": false,
+            "bitmask": true,
+            "comment": "Collision masks for first block tileset (see GBLOCK1 for example). Resize to 320 × 200 for overlay."
+        },
+        {
+            "name": "BMASKS2.BIN",
+            "width": 40,
+            "height": 200,
+            "palette": false,
+            "compression": false,
+            "interlaced": false,
+            "bitmask": true,
+            "comment": "Collision masks for second block tileset (see GBLOCK2 for example). Resize to 320 × 200 for overlay."
+        },
+        {
+            "name": "CHINEYES.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "RACESEL.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "COCKPIT.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "COVER.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "DBACK.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "DBLOCK1.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "DBLOCK2.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "DESSCN.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "DIST1.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "DIST2.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "DIST3.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "DMAP.BIN",
+            "width": 640,
+            "height": 350,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "DOORS.BIN",
+            "width": 256,
+            "height": 162,
+            "palette": "TFRONT.BIN",
+            "compression": "RNC",
+            "interlaced": false
+        },
+        {
+            "name": "DPANEL.BIN",
+            "width": 320,
+            "height": 24,
+            "palette": "GBLOCK1.BIN",
+            "compression": false,
+            "interlaced": true,
+            "comment": "Uses the same palette as the current level BLOCK1 image (e.g. GBLOCK1 for grass levels)"
+        },
+        {
+            "name": "DRILLS.BIN",
+            "width": 320,
+            "height": 46,
+            "palette": "PAN1.BIN",
+            "compression": "RNC",
+            "interlaced": false
+        },
+        {
+            "name": "DUDEFRM.BIN",
+            "width": 320,
+            "height": 194,
+            "palette": "PAN1.BIN",
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "EGGS.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "RACESEL.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "ES1.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "ES2.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "ES3.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "ES4.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "FBACK.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "FIGURE1.BIN",
+            "width": 320,
+            "height": 194,
+            "palette": "SCENE.BIN",
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "FIGURE2.BIN",
+            "width": 320,
+            "height": 52,
+            "palette": "SCENE.BIN",
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "FIGURES.BIN",
+            "width": 320,
+            "height": 180,
+            "palette": "PAN1.BIN",
+            "compression": "RNC",
+            "interlaced": false
+        },
+        {
+            "name": "FLOWER.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "RACESEL.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "FORSCN.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "FTARG.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "F_SEGUE.BIN",
+            "width": 192,
+            "height": 120,
+            "palette": "GBLOCK1.BIN",
+            "compression": false,
+            "interlaced": true,
+            "comment": "Uses the same palette as the current level BLOCK1 image (e.g. GBLOCK1 for grass levels). Appears when a flood is triggered."
+        },
+        {
+            "name": "GBACK.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "GBLOCK1.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "GBLOCK2.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "GLINTS.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "GOLD.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "GRABLIN.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "GRASSCN.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "GURN.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "RACESEL.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "HABBISH.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "HOLODATA.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "SHOP.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "HOLOSHLL.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "SHOP.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "IBACK.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "IBLOCK1.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "IBLOCK2.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "ILOGO.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "INCEDENT.BIN",
+            "width": 320,
+            "height": 73,
+            "palette": "GBLOCK1.BIN",
+            "compression": false,
+            "interlaced": false,
+            "comment": "Uses the same palette as the current level BLOCK1 image (e.g. GBLOCK1 for grass levels)"
+        },
+        {
+            "name": "JBLOCK1.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "JBLOCK2.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "LEFTFISH.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "RACESEL.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "LIZFRM.BIN",
+            "width": 320,
+            "height": 188,
+            "palette": "PAN1.BIN",
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "LOADSAVE.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "SETUP.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "MAINMENU.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "MAMMOTH.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "RACESEL.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "MAPSRND.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "MBACK.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "MBLOCK1.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "MBLOCK2.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "MENU.BIN",
+            "width": null,
+            "height": null,
+            "palette": null,
+            "compression": false,
+            "interlaced": null
+        },
+        {
+            "name": "MISC.BIN",
+            "width": null,
+            "height": null,
+            "palette": null,
+            "compression": false,
+            "interlaced": null,
+            "comment": "Fonts used in various places (such as speech, race selection, score, objectives)"
+        },
+        {
+            "name": "MMG.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "MMGLOGO.BIN",
+            "width": 160,
+            "height": 48,
+            "palette": "MAINMENU.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "MTSCN.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "MUSHROOM.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "RACESEL.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "PAN1.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "PAN2.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "PAN1.BIN",
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "PANEL.BIN",
+            "width": 320,
+            "height": 24,
+            "palette": "GBLOCK1.BIN",
+            "compression": false,
+            "interlaced": true,
+            "comment": "Uses the same palette as the current level BLOCK1 image (e.g. GBLOCK1 for grass levels)"
+        },
+        {
+            "name": "PANELBK.BIN",
+            "width": 320,
+            "height": 24,
+            "palette": "GBLOCK1.BIN",
+            "compression": false,
+            "interlaced": true,
+            "comment": "Uses the same palette as the current level BLOCK1 image (e.g. GBLOCK1 for grass levels)"
+        },
+        {
+            "name": "PMORTEM.BIN",
+            "width": 320,
+            "height": 24,
+            "palette": "GBLOCK1.BIN",
+            "compression": false,
+            "interlaced": true,
+            "comment": "Uses the same palette as the current level BLOCK1 image (e.g. GBLOCK1 for grass levels)"
+        },
+        {
+            "name": "PTRS.BIN",
+            "width": 16,
+            "height": 640,
+            "palette": null,
+            "compression": false,
+            "interlaced": false,
+            "comment": "Pointers, cursors and crosshairs. Unknown palette."
+        },
+        {
+            "name": "QUARRIOR.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "RACEFRM.BIN",
+            "width": 320,
+            "height": 136,
+            "palette": "RACES.BIN",
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "RACEPART.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "RACESEL.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "RACES.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "RACESEL.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "RBACK.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "RBLOCK1.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "RBLOCK2.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "RGHTFISH.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "RACESEL.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "ROCKSCN.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "SBACK.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "SBLOCK1.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "SBLOCK2.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "SCENE.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "SETUP.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "SETUPANI.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "SHIPANIM.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "SCENE.BIN",
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "SHOP.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "SHOPMX.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "SHOP.BIN",
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "SNWSCN.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "SPR1.BIN",
+            "width": 16,
+            "height": 3840,
+            "palette": "GBLOCK1.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "SPR2.BIN",
+            "width": 16,
+            "height": 3840,
+            "palette": "GBLOCK1.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "STAND.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "TASHSTEG.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "RACESEL.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "TC.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "TCFRM.BIN",
+            "width": 320,
+            "height": 118,
+            "palette": "TC.BIN",
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "TCPART.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "TRADING.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "TFFRM.BIN",
+            "width": 320,
+            "height": 42,
+            "palette": "TFRONT.BIN",
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "TFRONT.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": "RNC",
+            "interlaced": true
+        },
+        {
+            "name": "TITLE1.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "TITLE2.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "TRADING.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "WORMS.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": "RACESEL.BIN",
+            "compression": false,
+            "interlaced": false
+        },
+        {
+            "name": "WTERSCN.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        },
+        {
+            "name": "ZARG.BIN",
+            "width": 320,
+            "height": 200,
+            "palette": true,
+            "compression": false,
+            "interlaced": true
+        }
+    ]
+}

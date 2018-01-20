@@ -1,0 +1,165 @@
+{
+	"path": ".",
+	"files": [
+		{
+			"name": "TEST_MAP",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_01.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_02.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_03.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_04.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_05.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_06.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_07.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_08.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_09.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_10.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_11.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_12.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_13.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_14.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_15.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_16.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_17.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_18.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_19.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_20.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_21.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_22.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_23.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_24.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_25.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_26.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_27.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_28.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_29.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_30.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		},
+		{
+			"name": "LEVEL_31.GAM",
+			"tileset": "G",
+			"title": "WORLD"
+		}
+	]
+}
